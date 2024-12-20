@@ -1,0 +1,14 @@
+
+*.json
+
+*.html
+
+*.db
+
+*.tmp
+
+*.log
+
+logs/
+
+temp/
